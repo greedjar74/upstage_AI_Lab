@@ -1,3 +1,4 @@
 /MNIST_DATASET
 /runs
 /model_exp1.pt
+/wandb
