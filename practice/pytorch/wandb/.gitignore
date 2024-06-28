@@ -1,1 +1,3 @@
 /wandb
+/ae_model.pt
+/clf_model.pt
