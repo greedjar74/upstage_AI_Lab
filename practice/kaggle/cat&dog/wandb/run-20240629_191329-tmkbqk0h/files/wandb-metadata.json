@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-06-29T10:13:31.071761",
+    "startedAt": "2024-06-29T10:13:29.993228",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/greedjar74/upstage_AI_Lab.git",
+        "commit": "dd2e3537e15d47a5be0a9171fd0b49037a3df36d"
+    },
+    "email": "hong7498kim@navaer.com",
+    "root": "/Users/kimhongseok/upstage_AI_Lab",
+    "host": "gimhongseog-ui-MacBookPro.local",
+    "username": "kimhongseok",
+    "executable": "/opt/anaconda3/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 293.0608329772949
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M1 Pro",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
