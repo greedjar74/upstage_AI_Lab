@@ -1,2 +1,4 @@
 /test
 /train
+/ae_model.pt
+/clf_model.pt
