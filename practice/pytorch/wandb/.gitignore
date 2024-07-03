@@ -1,3 +1,4 @@
 /wandb
 /ae_model.pt
 /clf_model.pt
+/CIFAR10_DATASET
