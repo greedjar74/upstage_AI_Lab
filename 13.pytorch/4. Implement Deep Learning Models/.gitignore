@@ -1,2 +1,4 @@
 /data
 /MNIST_DATASET
+/model_next.pt
+/model_RNN.pt
