@@ -1,0 +1,281 @@
+{
+    "os": "Linux-5.4.0-166-generic-x86_64-with-glibc2.31",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-07-31T05:34:34.230210",
+    "startedAt": "2024-07-31T05:34:27.585376",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "instance-9401",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 48,
+    "cpu_freq": {
+        "current": 2.2057916666666664,
+        "min": 2200.0,
+        "max": 3800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.195,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.202,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.196,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.196,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.192,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.196,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.195,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.797,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 1.863,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 1.865,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.201,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.192,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.2,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.202,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.2,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.197,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.203,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.202,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.202,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.204,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.202,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.197,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.195,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.794,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 1.866,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 1.865,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.194,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.198,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.196,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.192,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2.199,
+            "min": 2200.0,
+            "max": 3800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1830.7268676757812,
+            "used": 78.32583618164062
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 251.61748504638672
+    }
+}
