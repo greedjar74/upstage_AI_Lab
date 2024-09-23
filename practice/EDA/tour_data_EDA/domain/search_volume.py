@@ -5,7 +5,7 @@ import os
 import plotly.express as px
 
 def search_volume():
-    path = '/Users/kimhongseok/eda_side_project/tour_data_EDA/data/문화빅데이터플랫폼/월별 검색량'
+    path = '/Users/kimhongseok/upstage_AI_Lab/practice/EDA/tour_data_EDA/data/문화빅데이터플랫폼/월별 검색량'
     data_path_list = os.listdir(path)
     data_path_list.sort()
     data_path_list.pop(0)

@@ -7,7 +7,7 @@ import plotly.express as px
 from statsmodels.tsa.seasonal import seasonal_decompose
 
 def visitors():
-    data_path = '/Users/kimhongseok/eda_side_project/tour_data_EDA/data/한국관광 데이터랩/방문자수추이'
+    data_path = '/Users/kimhongseok/upstage_AI_Lab/practice/EDA/tour_data_EDA/data/한국관광 데이터랩/방문자수추이'
     region_list = os.listdir(data_path)
     region_list.sort()
     region_list.pop(0)
